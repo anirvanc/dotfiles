@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Setting up my ~/
 
 These are my personal dotfiles
@@ -7,3 +8,4 @@ These are my personal dotfiles
 ## Installation ##
 
 ## Credits ##
+
