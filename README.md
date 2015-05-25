@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Setting up my ~/
 
 These are my personal dotfiles
